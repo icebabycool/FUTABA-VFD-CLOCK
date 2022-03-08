@@ -1,0 +1,81 @@
+Protel Design System Design Rule Check
+PCB File : E:\ad\VFD Clock\VFD Clock\VFD Clock.PcbDoc
+Date     : 2022/3/2
+Time     : 14:42:16
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) (InNet('NetANT_1')+InNet('ANT')+InNet('NetA2_1')+InNet('NetC19_2')+InNet('NetC19_1')),(InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net VCC Between Track (93.227mm,6.359mm)(94.348mm,6.359mm) on Top Layer And Pad J1-1(95.369mm,6.634mm) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-S1(98.044mm,9.334mm) on Bottom Layer [Unplated] And Pad J1-S2(98.044mm,6.534mm) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (95.369mm,4.034mm)(97.944mm,4.034mm) on Bottom Layer And Pad J1-S2(98.044mm,6.534mm) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (95.369mm,4.034mm)(97.944mm,4.034mm) on Bottom Layer And Pad J1-S4(98.044mm,1.334mm) on Bottom Layer [Unplated] 
+Rule Violations :4
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.102mm) (Max=5.08mm) (Preferred=0.102mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.102mm) (Max=1.27mm) (Preferred=0.254mm) ((InNet('VDD_SYS_3.3V') OR InNet('VDD_AV_3.3V') OR InNet('VDD_5V') OR InNet('VDD1V2-SYS') OR InNet('VDD1V1-EPHY') OR InNet('VDD-CPUX') OR InNet('VDD-CPUS') OR InNet('VDD-CPUFB') OR InNet('VCC-DRAM')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.102mm) (Max=1.27mm) (Preferred=0.254mm) ((InNet('AGND') OR InNet('GND')))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.203mm) (Max=254mm) (All)
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (93.377mm,22.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (93.377mm,23.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (93.377mm,24.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (93.377mm,25.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (94.377mm,22.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (94.377mm,23.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (94.377mm,24.186mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (94.377mm,25.186mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (95.377mm,22.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (95.377mm,23.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (95.377mm,24.186mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (95.377mm,25.186mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (96.377mm,22.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (96.377mm,23.186mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (96.377mm,24.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (96.377mm,25.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (97.377mm,22.186mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (97.377mm,23.186mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (97.377mm,24.187mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.203mm) Via (97.377mm,25.186mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+Rule Violations :20
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.051mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 24
+Waived Violations : 0
+Time Elapsed        : 00:00:02

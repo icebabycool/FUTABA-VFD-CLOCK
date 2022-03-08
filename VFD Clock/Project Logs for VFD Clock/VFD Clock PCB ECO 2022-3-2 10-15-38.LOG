@@ -1,0 +1,14 @@
+Added Component: Designator=R5(RESC1005X40X25LL10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1ETTP2701F"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC1005X40X25NL10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73H1ETTP1002F"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=BAT_A6 Pin=IC1-5
+Added Pin To Net: NetName=BAT_A6 Pin=R5-1
+Added Pin To Net: NetName=BAT_A6 Pin=R12-2
+Added Net: Name=BAT_A6
+Added Member To Class: ClassName=Main Member=Component R5 RK73H1ETTP2701F
+Added Member To Class: ClassName=Main Member=Component R12 RK73H1ETTP1002F

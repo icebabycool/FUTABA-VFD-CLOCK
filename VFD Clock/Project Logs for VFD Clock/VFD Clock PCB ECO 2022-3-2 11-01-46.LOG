@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R23 Old Footprint=RESC0603X26X15NL03T05 New Footprint=RESC1609X55X30NL10T20
+Change Component Footprint: Designator=R24 Old Footprint=RESC0603X26X15NL03T05 New Footprint=RESC1609X55X30NL10T20
+Change Component Comment : Designator=R23 Old Comment=ERJ1GNF10R0C New Comment=TNPW060310R0BEEA
+Change Component Comment : Designator=R24 Old Comment=ERJ1GNF10R0C New Comment=TNPW060310R0BEEA
+Change Managed Component Library Link : Designator=R23 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7F17195C-26E0-4393-954D-9CE90C9FD558 New ItemGUID=7F0EBE85-C00C-4702-806E-8800A5167BDB Old RevisionGUID=24219E55-6563-4570-9486-18626AF28E3B New RevisionGUID=05569876-8268-48BE-86F3-82A264D6A009
+Change Managed Component Library Link : Designator=R24 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7F17195C-26E0-4393-954D-9CE90C9FD558 New ItemGUID=7F0EBE85-C00C-4702-806E-8800A5167BDB Old RevisionGUID=24219E55-6563-4570-9486-18626AF28E3B New RevisionGUID=05569876-8268-48BE-86F3-82A264D6A009
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RESC0603X26X15NL03T05"; UniqueID = "\FPZHZQRM" ("\FPZHZQRM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RESC0603X26X15NL03T05"; UniqueID = "\CXLHUBUE" ("\CXLHUBUE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEA"; VariantName = "[No Variations]"

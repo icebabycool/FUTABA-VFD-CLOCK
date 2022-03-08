@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: VFD Clock.PcbDoc   2022/3/2  15:06:43
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : VFD Clock.TXT
+EIA File   : VFD Clock.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             20        PTH        0.87inch (22.16mm)
+T2      12mil (0.305mm)                                           Round             38        PTH        10.55inch (268.09mm)
+T3      15mil (0.381mm)                                           Round             79        PTH        16.35inch (415.38mm)
+T4      28mil (0.711mm)                                           Round             3         PTH        0.79inch (19.98mm)
+T5      30mil (0.75mm)                                            Round             8         PTH        0.90inch (22.80mm)
+T6      32mil (0.8mm)                                             Round             34        PTH        4.72inch (119.97mm)
+T7      35mil (0.889mm)                                           Round             6         PTH        0.50inch (12.70mm)
+T8      39mil (1mm)                                               Round             8         PTH        1.45inch (36.72mm)
+T9      45mil (1.15mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T10     75mil (1.905mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T11     118mil (3mm)                                              Round             2         PTH        3.60inch (91.54mm)
+T12     28mil (0.7mm)                                             Round             2         NPTH       0.16inch (4.15mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              202
+
+Total Processing Time (hh:mm:ss) : 00:00:00

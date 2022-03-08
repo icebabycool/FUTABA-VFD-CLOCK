@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [VFD Clock.PrjPcb]
+   Generated File[VFD Clock.TXT]
+   Generated File[VFD Clock.DRL]
+   Generated File[VFD Clock.LDP]
+   Generated File[VFD Clock.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:06:43 On 2022/3/2

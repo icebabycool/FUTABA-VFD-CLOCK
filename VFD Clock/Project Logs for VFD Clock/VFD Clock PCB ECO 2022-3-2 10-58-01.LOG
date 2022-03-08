@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=HV Pin=V1-29
+Change Component Comment : Designator=R1 Old Comment=RES2 New Comment=39K
+Added Component: Designator=C29(0603 cap - S)
+Added Component: Designator=C30(0603 cap - S)
+Added Component: Designator=R23(RESC0603X26X15NL03T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ1GNF10R0C"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC0603X26X15NL03T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ1GNF10R0C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=+3V3 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=HV Pin=R23-1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=R23-2
+Added Pin To Net: NetName=NetC30_2 Pin=R24-1
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=V1-29
+Added Net: Name=NetR24_2
+Added Member To Class: ClassName=Main Member=Component C29 0.1¦ÌF ¡À10% 6.3V
+Added Member To Class: ClassName=Main Member=Component C30 0.1¦ÌF 
+Added Member To Class: ClassName=Main Member=Component R23 ERJ1GNF10R0C
+Added Member To Class: ClassName=Main Member=Component R24 ERJ1GNF10R0C
